@@ -31,6 +31,12 @@ The model aims to minimize total logistics costs including:
 - Tested across multiple demand and capacity scenarios
 - Fully executable with open-source tools
 
+## 📊 Visual Comparison
+
+Below is a comparison of the total weekly cost per scenario, contrasting this model's output with the original article results:
+
+![Total Cost Comparison](figures/total_cost_comparison.png)
+
 ## 👤 Author
 
 Pedro Silva  
